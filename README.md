@@ -1,7 +1,6 @@
 # Brain-Image-segmentation-using-Unet
 
-## data set refrence:
-Dataset used in:
+#### Dataset used in:
 
 Mateusz Buda, AshirbaniSaha, Maciej A. Mazurowski "Association of genomic subtypes of lower-grade gliomas with shape features automatically extracted by a deep learning algorithm." Computers in Biology and Medicine, 2019.
 
